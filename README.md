@@ -2,7 +2,7 @@
 
 CycleSense v1 CycleSense is a privacy-first web tool designed to help users understand their menstrual patterns and support daily well-being. It allows users to log cycle data to generate insights and receive supportive suggestions based on their energy and pain levels.
 
-🔗 Live Demo: https://tm1307.github.io/cyclesense-v1/
+🔗 Live Demo: https://tm1307.github.io/cyclesense/
 
 📖 About CycleSense provides a simple interface for tracking menstrual health metrics without the need for complex logins or invasive data collection. It focuses on identifying patterns in cycle length, period duration, and daily well-being to offer educational insights.
 
